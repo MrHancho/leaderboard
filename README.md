@@ -2,3 +2,4 @@
 
 ## Outline
 
+[a relative link](ErModel.png)
